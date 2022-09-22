@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Open SEM'
+project = 'Mito-EM'
 copyright = '2022, Snow Wang'
 author = 'Snow Wang'
 

@@ -1,4 +1,0 @@
-Data Annotation
-===============
-
-VAST intro

@@ -1,5 +1,5 @@
-Data Proofreading
-=================
+Proofreading Mitochondria 
+=========================
 
 Contributor: Haishan Zhang
 
